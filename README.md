@@ -6,7 +6,7 @@ Sistema simples de gerenciamento de acervo com persistência em JSON.
 - ✅ Cadastro de livros
 - ✅ Listagem com ordenação
 - ✅ Busca flexível (ignora maiúsculas/minúsculas)
-- ✅ Empréstimo e devolução
+- ✅ Empréstimo 
 - ✅ Remoção com confirmação
 - ✅ Contador de acervo
 - ✅ Dados salvos em JSON
