@@ -13,4 +13,4 @@ Sistema simples de gerenciamento de acervo com persistência em JSON.
 
 ## Como executar
 ```bash
-python biblioteca.py
+python projeto_biblioteca.py
